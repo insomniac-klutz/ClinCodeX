@@ -1,0 +1,15 @@
+---
+
+# VectorDB params
+ICD_10_CM_VECTOR_DB_PATH : 'data/vectorDB/icd_nodes_db'
+
+VECTOR_DB_CHUNK_SIZE : 650
+VECTOR_DB_CHUNK_OVERLAP : 200
+VECTOR_DB_BATCH_SIZE : 200
+VECTOR_DB_SENTENCE_EMBEDDING_MODEL : 'sentence-transformers/all-mpnet-base-v2'
+
+# Context File locs
+ICD_NODE_CONTEXT_PATH : "data/icd_context.csv"
+
+...
+
