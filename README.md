@@ -1,8 +1,16 @@
 # ClinCodeX
 
+# Pipeline
+
+- [x] Diagnosis - [ICD10CM](https://www.nlm.nih.gov/research/umls/sourcereleasedocs/current/ICD10CM)
+- [ ] Medications - [RxNorm](https://www.nlm.nih.gov/research/umls/rxnorm/index.html)
+- [ ] Procedures - [CPT | HCPCS](https://www.ama-assn.org/practice-management/cpt/cpt-overview-and-code-approval)
+- [ ] Lab Results - [LOINC](https://www.nlm.nih.gov/research/umls/loinc_main.html)
+- [ ] One Shot Unified Interface
+
 ---
 
-# How It Works
+# How It Works - Diagnosis - ICD10CM
 
     1. Understanding the Text
     
@@ -33,6 +41,8 @@
 
 ---
 # Demo
+
+ICD10CM
 
 https://github.com/user-attachments/assets/e1601471-75e8-4ef9-9970-bf98b2628da4
 
